@@ -18,6 +18,9 @@
 2. Приложите в файл README.md текст использованных команд в GitHub
 
 ### Ответ:
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_2.png)
+
 
 ```git clone https://github.com/Roman-Teterevlev/SYS-21_hw-02```
 
