@@ -27,7 +27,7 @@
 
 ```git add READMW.md```
 
-```git commit -m "task1"```
+```git commit -m "task1 git commands"```
 
 ```git push origin```
 
