@@ -25,7 +25,7 @@
 
 ```vi README.md```
 
-```git add READMW.md```
+```git add README.md```
 
 ```git commit -m "task1 git commands"```
 
