@@ -72,9 +72,13 @@
 
 ```git push origin```
 
-```![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_1.png)```
+```![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_3.png)```
 
-```![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_2.png)```
+```![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_4.png)```
+
+```![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_5.png)```
+
+```![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-02/blob/main/hw-02_6.png)```
 
 ---
 
