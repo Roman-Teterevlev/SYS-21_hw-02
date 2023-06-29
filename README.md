@@ -25,6 +25,12 @@
 
 ```vi README.md```
 
+```git add READMW.md```
+
+```git commit -m "task1"```
+
+```git push origin```
+
 
 ---
 
